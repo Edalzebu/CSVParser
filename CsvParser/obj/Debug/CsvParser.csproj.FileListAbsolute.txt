@@ -1,0 +1,9 @@
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\bin\Debug\CsvParser.exe.config
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.csprojResolveAssemblyReference.cache
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.Properties.Resources.resources
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.VentanaPrincipal.resources
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.csproj.GenerateResource.Cache
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\bin\Debug\CsvParser.exe
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\bin\Debug\CsvParser.pdb
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.exe
+c:\users\edwin\documents\visual studio 2012\Projects\CsvParser\CsvParser\obj\Debug\CsvParser.pdb
